@@ -8,10 +8,10 @@ class Counter extends Component {
         };
     }
     render () {
-        return <div>
+        return (<div>
         <h3>Count value is: {this.state.counter} </h3>
         <button>Click</button>
-        </div>
+        </div>)
     }
 }
 
