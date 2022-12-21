@@ -6,4 +6,4 @@ import { Component } from "react";
     }
  }
 
- export default Message
+ export default Message 
