@@ -3,7 +3,7 @@
 
 const Profile = (namedata) => {
     return <h1>Name: {namedata.name}
-    {namedata.children}
+    {/* {namedata.children} */}
     </h1>
     
 }
